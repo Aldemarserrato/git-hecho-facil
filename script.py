@@ -1,1 +1,1 @@
-print("Este es un proyecto de prueba para aprender GIT")
+print("Este es un proyecto de prueba para aprender GIT versionado")
